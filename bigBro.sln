@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBro", "BigBro\BigBro.csproj", "{BE62373C-5BD6-4C7C-B453-5CA3637B4912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalanChart", "TalanChart\TalanChart.csproj", "{28FC2F89-39AB-41A2-901F-ACE03416A744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE62373C-5BD6-4C7C-B453-5CA3637B4912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE62373C-5BD6-4C7C-B453-5CA3637B4912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE62373C-5BD6-4C7C-B453-5CA3637B4912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE62373C-5BD6-4C7C-B453-5CA3637B4912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FC2F89-39AB-41A2-901F-ACE03416A744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FC2F89-39AB-41A2-901F-ACE03416A744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FC2F89-39AB-41A2-901F-ACE03416A744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FC2F89-39AB-41A2-901F-ACE03416A744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E5E462D-37A4-41FE-8E08-387127EDCA8B}
+	EndGlobalSection
+EndGlobal
